@@ -1,4 +1,4 @@
-
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 Hi there, I'm Nivetha 👋
 Aspiring Data Analyst | Power BI | SQL | Excel
 
