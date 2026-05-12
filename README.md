@@ -32,3 +32,6 @@ Aspiring Data Analyst | Power BI | SQL | Excel
 - Data Storytelling
 - Python for Analytics
 - Cloud & AI Integration
+
+[Dashboard](image-link)
+https://github.com/NivethaAshokkumarG/nivethaashok/commit/1285aad372e19e5e1e97d682a1b244a00041acf6
