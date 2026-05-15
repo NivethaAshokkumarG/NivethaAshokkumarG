@@ -40,4 +40,5 @@ AI Augumented Data Analyst | Power BI | SQL | Excel
 - Cloud & AI Integration
 
 [Dashboard](image-link)
+https://github.com/NivethaAshokkumarG/consumer-financial-complaints-analysis/blob/main/Dash%201.png
 
